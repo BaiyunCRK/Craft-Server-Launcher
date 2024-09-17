@@ -1,4 +1,6 @@
+blank_issues_enabled: true  # 禁止用户创建空白问题，强制使用模板
+contact_links: 
+  - name: 提交反馈
+    url: https://github.com/BaiyunCRK/Craft-Server-Launcher/issues
+    about: 如果你有其他问题或反馈，请使用此链接联系我们。
 
----
-
-谢谢你花时间报告这个问题！我们会尽快查看并解决它。
