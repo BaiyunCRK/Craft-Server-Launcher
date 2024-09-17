@@ -23,10 +23,7 @@
 You can download the latest version of the application via the following link:
 
 [![下载](https://img.shields.io/badge/下载-最新版本-blue?style=for-the-badge)](https://example.com/latest-version)
-[![Download](https://img.shields.io/badge/Download-Latest_Version-blue?style=for-the-badge)](https://example.com/latest-version)
-
 [![历史版本下载](https://img.shields.io/badge/历史版本-下载-blue?style=for-the-badge)](https://example.com/previous-versions)
-[![Historical Version Download](https://img.shields.io/badge/Historical_Version-Download-blue?style=for-the-badge)](https://example.com/previous-versions)
 
 ## 软件简介（Software Profile）
 软件开发语言选用E语言，E语言易于上手，简易好理解。软件后期将考虑转至C#编写。
