@@ -29,3 +29,14 @@ Why choose E-Language?
 
 Provides a rich library of visual development tools and components, such as form designers, buttons, text boxes, etc., to intuitively design and layout the application interface.These tools and component libraries reduce programming difficulty
 
+## 支持我的工作（Support My Work） 🎉
+
+如果您喜欢我的工作，欢迎通过以下方式赞助支持：
+
+If you like my work, please consider supporting me through the following platforms:
+
+[![爱发电](https://img.shields.io/badge/AifaDian-Support_me-FF5E00?style=for-the-badge)](https://ifdian.net/a/baiyun_com)
+
+感谢您的支持！每一份赞助都会让我继续创作并改进我的项目。
+
+Thank you for your support! Every contribution helps me continue creating and improving my projects.
