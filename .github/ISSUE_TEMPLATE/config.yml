@@ -10,9 +10,13 @@ issue_templates:
   - name: Feature Request
     about: 提出一个新功能请求，帮助我们改进
     template: feature_request.md
+  - name: Custom Issue
+    about: 提交自定义问题或建议
+    template: custom.md
 
-# 提供额外的反馈链接（可选）
+# 提供额外的反馈链接
 contact_links:
   - name: 提交反馈
     url: https://github.com/BaiyunCRK/Craft-Server-Launcher/issues
     about: 如果你有其他问题或反馈，请使用此链接联系我们。
+
