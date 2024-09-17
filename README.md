@@ -35,6 +35,7 @@ Provides a rich library of visual development tools and components, such as form
 
 If you like my work, please consider supporting me through the following platforms:
 
+[![爱发电](https://img.shields.io/badge/爱发电-支持我-FF5E00?style=for-the-badge)](https://ifdian.net/a/baiyun_com)
 [![爱发电](https://img.shields.io/badge/AifaDian-Support_me-FF5E00?style=for-the-badge)](https://ifdian.net/a/baiyun_com)
 
 感谢您的支持！每一份赞助都会让我继续创作并改进我的项目。
