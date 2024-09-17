@@ -15,6 +15,7 @@
 3. **响应时间**：我们将在48小时内确认收到您的报告，并尽快提供状态更新。我们非常重视安全问题，将尽快处理此问题。
 
 4. **披露政策**：一旦漏洞得到解决，我们将发布安全公告，详细说明问题和修复措施，除非报告者要求保密。
+
 If you have discovered a security vulnerability in this project, please follow the steps below to report it:
 
 
