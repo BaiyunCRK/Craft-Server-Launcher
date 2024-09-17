@@ -1,9 +1,13 @@
-# 支持我的工作 🎉
-
-如果您喜欢我的工作，欢迎通过以下方式赞助支持：
-
-custom: ['https://ifdian.net/a/baiyun_com']
-
-- **爱发电**: [买杯咖啡支持我](https://ifdian.net/a/baiyun_com)
-
-感谢您的支持！每一份赞助都会让我继续创作并改进我的项目。
+github: [user1, user2] # GitHub Sponsors 用户名（最多4个）
+patreon: 你的Patreon用户名 # Patreon 用户名
+open_collective: 你的Open Collective用户名 # Open Collective 用户名
+ko_fi: 你的Ko-fi用户名 # Ko-fi 用户名
+tidelift: npm/babel # Tidelift 平台/包名
+community_bridge: cloud-foundry # Community Bridge 项目名称
+liberapay: 你的Liberapay用户名 # Liberapay 用户名
+issuehunt: 你的IssueHunt用户名 # IssueHunt 用户名
+lfx_crowdfunding: cloud-foundry # LFX Crowdfunding 项目名称
+polar: 你的Polar用户名 # Polar 用户名
+buy_me_a_coffee: 你的Buy Me a Coffee用户名 # Buy Me a Coffee 用户名
+thanks_dev: 你的Thanks.dev用户名 # Thanks.dev 用户名
+custom: ['https://aifadian.com/你的链接'] # 自定义链接（如爱发电或其他）
