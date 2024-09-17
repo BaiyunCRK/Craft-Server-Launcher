@@ -1,6 +1,6 @@
-# 安全政策
+# 安全政策safety policy
 
-## 报告漏洞
+## 报告漏洞Report a vulnerability
 
 如果您发现了本项目中的安全漏洞，请按照以下步骤报告：
 
@@ -15,7 +15,35 @@
 3. **响应时间**：我们将在48小时内确认收到您的报告，并尽快提供状态更新。我们非常重视安全问题，将尽快处理此问题。
 
 4. **披露政策**：一旦漏洞得到解决，我们将发布安全公告，详细说明问题和修复措施，除非报告者要求保密。
+If you have discovered a security vulnerability in this project, please follow the steps below to report it:
 
+
+1. **Do not make vulnerability details public**: Please do not post any details about the vulnerability in public forums or GitHub issues.This helps prevent the vulnerability from being maliciously exploited before it is fixed.
+
+
+2. **Contact us directly**: Please send a vulnerability report via email to [2648181326@qq.com](mailto:2648181326@qq.com), the email should contain the following:
+- **Vulnerability Description**: Provide a clear and detailed description of the vulnerability.
+- **Reproduction Steps**: Include steps to reproduce the vulnerability, if applicable.
+- **Impact**: Describe the possible impact of the vulnerability.
+- **Proof of Concept**: Attach relevant proof of concept or exploit code, if applicable.
+
+
+3. **Response time**: We will acknowledge receipt of your report within 48 hours and provide a status update as soon as possible.We take security very seriously and will address this issue as soon as possible.
+
+
+4. **Disclosure Policy**: Once the vulnerability has been resolved, we will issue a security bulletin detailing the problem and fixes, unless the person who reported it requests confidentiality.If you have discovered a security vulnerability in this project, please follow the steps below to report it:
+
+1. **Do not make vulnerability details public**: Please do not post any details about the vulnerability in public forums or GitHub issues.This helps prevent the vulnerability from being maliciously exploited before it is fixed.
+
+2. **Contact us directly**: Please send a vulnerability report via email to [2648181326@qq.com](mailto:2648181326@qq.com), the email should contain the following:
+- **Vulnerability Description**: Provide a clear and detailed description of the vulnerability.
+- **Reproduction Steps**: Include steps to reproduce the vulnerability, if applicable.
+- **Impact**: Describe the possible impact of the vulnerability.
+- **Proof of Concept**: Attach relevant proof of concept or exploit code, if applicable.
+
+3. **Response time**: We will acknowledge receipt of your report within 48 hours and provide a status update as soon as possible.We take security very seriously and will address this issue as soon as possible.
+
+4. **Disclosure Policy**: Once the vulnerability has been resolved, we will issue a security bulletin detailing the problem and fixes, unless the person who reported it requests confidentiality.
 ## 安全更新
 
 要获取安全修复的更新，请订阅我们的邮件列表或关注我们的代码库公告。
@@ -37,24 +65,6 @@
 
 感谢您帮助我们保持项目的安全！
 
-
-# Security Policy
-
-## Reporting a Vulnerability
-
-If you discover a security vulnerability in this project, please follow these steps to report it:
-
-1. **Do Not Post Vulnerabilities Publicly**: Please do not post any details about the vulnerability in public forums or issues on GitHub. This helps prevent malicious exploitation of the vulnerability before it is addressed.
-
-2. **Contact Us Directly**: Send an email to [2648181326@qq.com](mailto:2648181326@qq.com) with the following details:
-   - **Description of the Vulnerability**: Provide a clear and detailed description of the issue.
-   - **Steps to Reproduce**: Include steps to reproduce the issue, if applicable.
-   - **Impact**: Describe the potential impact of the vulnerability.
-   - **Proof of Concept**: Attach any relevant proof of concept or exploit code, if applicable.
-
-3. **Response Time**: We will acknowledge receipt of your report within 48 hours and will provide a status update as soon as possible. We take security seriously and will work to address the issue promptly.
-
-4. **Disclosure Policy**: Once the vulnerability has been resolved, we will publish a security advisory detailing the issue and the fix, unless the reporter requests otherwise.
 
 ## Security Updates
 
