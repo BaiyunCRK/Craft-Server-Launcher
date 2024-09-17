@@ -16,6 +16,15 @@
     <img src="https://img.shields.io/badge/Quick-Fast-red" alt="图片">
 </p>
 
+## 下载最新版本（Download Latest Version）
+
+点击下面的按钮下载最新版本：
+
+You can download the latest version of the application via the following link:
+
+[![Download](https://img.shields.io/badge/Download-Latest_Version-blue?style=for-the-badge)](https://example.com/latest-version)
+[Download Latest Version](https://example.com/latest-version)
+
 ## 软件简介（Software Profile）
 软件开发语言选用E语言，E语言易于上手，简易好理解。软件后期将考虑转至C#编写。
 
