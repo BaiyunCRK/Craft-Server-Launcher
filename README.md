@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://github.com/sirvffg/Craft-Server-Launcher/blob/main/logo/icon.png" alt="图片">
+   <img src="https://github.com/BaiyunCRK/Craft-Server-Launcher/blob/main/logo/icon.png" alt="图片">
 </p>
 
 <h1 align="center">Craft Server Launcher(CSL)</h1>
