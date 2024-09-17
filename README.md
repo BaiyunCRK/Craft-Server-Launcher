@@ -16,14 +16,7 @@
     <img src="https://img.shields.io/badge/Quick-Fast-red" alt="图片">
 </p>
 
-## 下载最新版本（Download Latest Version）
 
-点击下面的按钮下载最新版本：
-
-You can download the latest version of the application via the following link:
-
-[![下载](https://img.shields.io/badge/下载-最新版本-blue?style=for-the-badge)](https://example.com/latest-version)
-[![历史版本下载](https://img.shields.io/badge/历史版本-下载-blue?style=for-the-badge)](https://example.com/previous-versions)
 
 ## 软件简介（Software Profile）
 软件开发语言选用E语言，E语言易于上手，简易好理解。软件后期将考虑转至C#编写。
@@ -38,15 +31,27 @@ Why choose E-Language?
 
 Provides a rich library of visual development tools and components, such as form designers, buttons, text boxes, etc., to intuitively design and layout the application interface.These tools and component libraries reduce programming difficulty
 
-## 支持我的工作（Support My Work） 🎉
+<p align="center">
+   <a href="https://ifdian.net/a/baiyun_com"target="_blank"><img src="https://img.shields.io/badge/爱发电-ifadian-blue?style=for-the-badge" alt="赞助我们"border="0"></a>
+   <a href="https://github.com/BaiyunCRK/Craft-Server-Launcher/releases"target="_blank"><img src="https://img.shields.io/badge/下载-Download-blue?style=for-the-badge" alt="跳转至下载界面"border="0"></a>
+</p>
 
-如果您喜欢我的工作，欢迎通过以下方式赞助支持：
+## 赞助我们（Sponsor Us） 🎉
 
-If you like my work, please consider supporting me through the following platforms:
+如果您喜欢我们的产品，您可以通过上方赞助按钮支持我们。
 
-[![爱发电](https://img.shields.io/badge/爱发电-支持我-FF5E00?style=for-the-badge)](https://ifdian.net/a/baiyun_com)
-[![爱发电](https://img.shields.io/badge/AifaDian-Support_me-FF5E00?style=for-the-badge)](https://ifdian.net/a/baiyun_com)
+If you like our products, you can support us via the sponsor button above.
 
 感谢您的支持！每一份赞助都会让我继续创作并改进我的项目。
 
 Thank you for your support! Every contribution helps me continue creating and improving my projects.
+
+## 下载最新版本（Download Latest Version）
+
+点击下面的按钮下载最新版本：
+
+You can download the latest version of the application via the following link:
+
+<p align="center">
+   <a href="https://github.com/BaiyunCRK/Craft-Server-Launcher/releases"target="_blank"><img src="https://img.shields.io/badge/下载-Download-orange?style=for-the-badge" alt="跳转至下载界面"border="0"></a>
+</p>
