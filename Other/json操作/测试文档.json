@@ -1,0 +1,504 @@
+{
+  "results": [
+    {
+      "type": "Fabric",
+      "Version": "1.21.1",
+      "DownloadFile": "1.21.1.jar"
+    },
+    {
+      "type": "Fabric",
+      "Version": "1.21",
+      "DownloadFile": "1.21.jar"
+    },
+    {
+      "type": "Fabric",
+      "Version": "1.20.4",
+      "DownloadFile": "1.20.4.jar"
+    },
+    {
+      "type": "Fabric",
+      "Version": "1.20.3",
+      "DownloadFile": "1.20.3.jar"
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    },
+    {
+      "type": "Fabric",
+      "Version": "",
+      "DownloadFile": ""
+    }
+  ]
+}
