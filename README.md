@@ -32,7 +32,7 @@ Why choose E-Language?
 Provides a rich library of visual development tools and components, such as form designers, buttons, text boxes, etc., to intuitively design and layout the application interface.These tools and component libraries reduce programming difficulty
 
 <p align="center">
-   <a href="填写爱发电链接"target="_blank"><img src="https://img.shields.io/badge/爱发电-ifadian-blue?style=for-the-badge" alt="赞助我们"border="0"></a>
+   <a href="https://afdian.com/a/Baiyun_2"target="_blank"><img src="https://img.shields.io/badge/爱发电-ifadian-blue?style=for-the-badge" alt="赞助我们"border="0"></a>
    <a href="https://github.com/BaiyunCRK/Craft-Server-Launcher/releases"target="_blank"><img src="https://img.shields.io/badge/下载-Download-blue?style=for-the-badge" alt="跳转至下载界面"border="0"></a>
 </p>
 
