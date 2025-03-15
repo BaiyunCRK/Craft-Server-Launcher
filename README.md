@@ -23,14 +23,6 @@
 
 Software development language selected E language, E language is easy to start, simple and good understanding.The software will be considered to transfer to C# writing later.
 
-**为什么选择E语言？**
-
-Why choose E-Language?
-
-提供了丰富的可视化开发工具和组件库，如窗体设计器、按钮、文本框等，可以直观地设计和布局应用程序界面。这些工具和组件库降低了编程的难度
-
-Provides a rich library of visual development tools and components, such as form designers, buttons, text boxes, etc., to intuitively design and layout the application interface.These tools and component libraries reduce programming difficulty
-
 <p align="center">
    <a href="https://afdian.com/a/Baiyun_2"target="_blank"><img src="https://img.shields.io/badge/爱发电-ifadian-blue?style=for-the-badge" alt="赞助我们"border="0"></a>
    <a href="https://github.com/BaiyunCRK/Craft-Server-Launcher/releases"target="_blank"><img src="https://img.shields.io/badge/下载-Download-blue?style=for-the-badge" alt="跳转至下载界面"border="0"></a>
